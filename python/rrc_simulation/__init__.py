@@ -8,3 +8,4 @@ from .trifinger_platform import (  # noqa
     CameraObservation,
     TriCameraObservation,
 )
+from .geometric_ik import GeometricIK # noqa
